@@ -1,0 +1,11 @@
+c:\users\josec\onedrive\documents\visual studio 2017\Projects\ScrummatesV4\ScrummatesV4\bin\Debug\netcoreapp2.0\ScrummatesV4.deps.json
+c:\users\josec\onedrive\documents\visual studio 2017\Projects\ScrummatesV4\ScrummatesV4\bin\Debug\netcoreapp2.0\ScrummatesV4.runtimeconfig.json
+c:\users\josec\onedrive\documents\visual studio 2017\Projects\ScrummatesV4\ScrummatesV4\bin\Debug\netcoreapp2.0\ScrummatesV4.runtimeconfig.dev.json
+c:\users\josec\onedrive\documents\visual studio 2017\Projects\ScrummatesV4\ScrummatesV4\bin\Debug\netcoreapp2.0\ScrummatesV4.dll
+c:\users\josec\onedrive\documents\visual studio 2017\Projects\ScrummatesV4\ScrummatesV4\obj\Debug\netcoreapp2.0\ScrummatesV4.csprojResolveAssemblyReference.cache
+c:\users\josec\onedrive\documents\visual studio 2017\Projects\ScrummatesV4\ScrummatesV4\obj\Debug\netcoreapp2.0\ScrummatesV4.csproj.CoreCompileInputs.cache
+c:\users\josec\onedrive\documents\visual studio 2017\Projects\ScrummatesV4\ScrummatesV4\obj\Debug\netcoreapp2.0\ScrummatesV4.AssemblyInfoInputs.cache
+c:\users\josec\onedrive\documents\visual studio 2017\Projects\ScrummatesV4\ScrummatesV4\obj\Debug\netcoreapp2.0\ScrummatesV4.AssemblyInfo.cs
+c:\users\josec\onedrive\documents\visual studio 2017\Projects\ScrummatesV4\ScrummatesV4\bin\Debug\netcoreapp2.0\ScrummatesV4.pdb
+c:\users\josec\onedrive\documents\visual studio 2017\Projects\ScrummatesV4\ScrummatesV4\obj\Debug\netcoreapp2.0\ScrummatesV4.dll
+c:\users\josec\onedrive\documents\visual studio 2017\Projects\ScrummatesV4\ScrummatesV4\obj\Debug\netcoreapp2.0\ScrummatesV4.pdb
