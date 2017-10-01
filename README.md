@@ -28,9 +28,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Create EF Model
 
-Scaffold-DbContext "Server=DESKTOP-01O92GG;Database=CarbajalSalinas;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+Scaffold-DbContext "Data Source=SQL5030.SmarterASP.NET;Initial Catalog=DB_A109B3_chamucolol87;User Id=DB_A109B3_chamucolol87_admin;Password=lomas123;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
 
 ## Update EF Model
 
-Scaffold-DbContext "Server=DESKTOP-01O92GG;Database=CarbajalSalinas;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Force
+Scaffold-DbContext "Data Source=SQL5030.SmarterASP.NET;Initial Catalog=DB_A109B3_chamucolol87;User Id=DB_A109B3_chamucolol87_admin;Password=lomas123;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Force
 "# ScrummatesV4" 

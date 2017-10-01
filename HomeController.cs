@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -17,7 +17,7 @@ namespace ScrummatesV4
         public IEnumerable<string> Get()
         {
             var app = dbContext.Applications.FirstOrDefault();
-            var user = app.Users.FirstOrDefault().UserName;
+            var user = dbContext.Users.FirstOrDefault(r =>r.AppId == app.AppId).UserName;
             return new string[] { "Hello", user };
         }
     }

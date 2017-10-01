@@ -1,10 +1,10 @@
-using System;
+﻿using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
 namespace ScrummatesV4.Models
 {
-    public partial class CarbajalSalinasContext : DbContext
+    public partial class DB_A109B3_chamucolol87Context : DbContext
     {
         public virtual DbSet<Applications> Applications { get; set; }
         public virtual DbSet<Users> Users { get; set; }
@@ -14,9 +14,8 @@ namespace ScrummatesV4.Models
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-        //optionsBuilder.UseSqlServer(@"Server=DESKTOP-01O92GG;Database=CarbajalSalinas;Trusted_Connection=True;");
-        optionsBuilder.UseSqlServer(@"Data Source=SQL5030.SmarterASP.NET;Initial Catalog=DB_A109B3_chamucolol87;User Id=DB_A109B3_chamucolol87_admin;Password=lomas123;");
-      }
+                optionsBuilder.UseSqlServer(@"Data Source=SQL5030.SmarterASP.NET;Initial Catalog=DB_A109B3_chamucolol87;User Id=DB_A109B3_chamucolol87_admin;Password=lomas123;");
+            }
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
