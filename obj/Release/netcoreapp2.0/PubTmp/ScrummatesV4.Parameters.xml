@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
   <parameter name="IIS Web Application Name" description="" value="chamucolol87-005-site2" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^c:\\users\\josec\\onedrive\\documents\\visual\ studio\ 2017\\Projects\\ScrummatesV4\\ScrummatesV4\\obj\\Release\\netcoreapp2\.0\\PubTmp\\Out\\$" />
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\josec\\onedrive\\documents\\visual\ studio\ 2017\\Projects\\ScrummatesV4\\ScrummatesV4\\obj\\Release\\netcoreapp2\.0\\PubTmp\\Out\\$" />
   </parameter>
 </parameters>
